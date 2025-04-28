@@ -45,5 +45,5 @@ At anytime, any Cook will notify Cook Manager (ContinuationInterceptor) to resum
 
 ContinuationInterceptor knows how to resume.
 
-## Note:
+## License:
 All rights reserved. No part of this may be distributed without permission.
